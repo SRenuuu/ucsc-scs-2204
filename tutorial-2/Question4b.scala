@@ -1,4 +1,4 @@
-// Tutorial 2 - Q4a
+// Tutorial 2 - Q4b
 
 object Question4b {
   def main(args: Array[String]): Unit = {
