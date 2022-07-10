@@ -1,9 +1,9 @@
-# UCSC-SCS-2204
+# UCSC CS | SCS2204 - Functional Programming
 Repository to store submitted code files for **SCS2204** module in UCSC CS degree program
 
-#### Name: S. R. Galappaththy
-#### Index no: 20000545
-#### Module: SCS2204 - Functional Programming
+**S. R. Galappaththy - 20000545**
 ---
-This repo currently includes:
-1. Tutorial 2
+### Tutorial 2
+- [Questions 1, 2 and 3](tutorial-2/Questions1to3.scala)
+- [Question 4a](tutorial-2/Question4a.scala)
+- [Question 4b](tutorial-2/Question4b.scala)
