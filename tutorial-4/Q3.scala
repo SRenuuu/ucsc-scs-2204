@@ -1,3 +1,4 @@
+// Tutorial 4 - Question 3
 object Q3 {
   def main(args: Array[String]): Unit = {
     println(formatNames("Benny")(toUpper))
