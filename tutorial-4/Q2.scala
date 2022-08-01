@@ -1,3 +1,4 @@
+// Tutorial 4 - Question 2
 object Q2 {
   def main(args: Array[String]): Unit = {
     print("Enter a number: ");
