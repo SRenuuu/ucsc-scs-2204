@@ -7,3 +7,10 @@ Repository to store submitted code files for **SCS2204** module in UCSC CS degre
 - [Questions 1, 2 and 3](tutorial-2/Questions1to3.scala)
 - [Question 4a](tutorial-2/Question4a.scala)
 - [Question 4b](tutorial-2/Question4b.scala)
+
+### Tutorial 3
+- [Questions 1](tutorial-3/Q1.scala)
+- [Questions 2](tutorial-3/Q2.scala)
+- [Questions 3](tutorial-3/Q3.scala)
+- [Questions 4](tutorial-3/Q4.scala)
+- [Questions 5](tutorial-3/Q5.scala)
