@@ -1,11 +1,11 @@
 // Tutorial 6 - Question 1
 
 object Q1 {
-  val alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+  val alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
   val key = 5
 
   def main(args: Array[String]): Unit = {
-    val cipherText = cipher(encrypt, "HelloWorld", key, alphabet)
+    val cipherText = cipher(encrypt, "Hello World", key, alphabet)
     val plainText = cipher(decrypt, cipherText, key, alphabet)
 
     printf("Cipher Text : %s\n", cipherText)
